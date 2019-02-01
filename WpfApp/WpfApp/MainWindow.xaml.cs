@@ -27,7 +27,7 @@ namespace WpfApp
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Hey! This Worked!");
+            MessageBox.Show("Hey! This Worked!", "Did this work?");
         }
     }
 }
